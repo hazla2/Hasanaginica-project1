@@ -1,0 +1,184 @@
+const translations = {
+  en: {
+    //**About */
+    "about-title": "About",
+    "about-content":
+      "Hasanaginica is a South Slavic folk ballad that originated in the Imotski region during the period from 1646 to 1649. It tells the tragic story of a noble wife, Hasanaginica, who faces societal norms and family pressures.",
+    "about-content-2":
+      "Hasanaginica is one of the most luminous and tragic characters in our literature. She conforms to all the norms of her society but experiences a heartbreaking fate. Her heart breaks when her husband, Hasan Aga, cruelly sends her away because she couldn't visit him while he was wounded. In that era, women were not allowed to express emotions toward their husbands or move beyond the confines of their homes. Despite fulfilling her roles as a wife and mother, Hasanaginica is forced to leave her children and home. Her story serves as a beacon in both our local and global literary tradition.",
+    "about-content-3":
+      "In the ballad, Hasanaginica is depicted as a devoted wife and mother. She endures immense suffering and heartache when her husband, Hasan Aga, sends her away. Despite her loyalty and fulfillment of societal norms, she faces a cruel fate. The emotional weight of leaving her children and home is palpable, and her story resonates with readers across cultures and generations.",
+    "about-content-link": "Read the full ballad",
+
+    //**Navigation */
+    "nav-link-home": "Home",
+    "nav-link-about": "About",
+    "nav-link-ballads": "Ballads",
+    "nav-link-gallery": "Gallery",
+
+    //**FunFacts */
+    "funfacts-title": "Fun Facts",
+    "fun-fact-content":
+      "A fun fact about Hasanaginica is that it has been translated into more than 40 languages, making it a globally recognized and cherished piece of literature.",
+    "fun-fact-translations": "Translations",
+
+    //**Ballads */
+    "ballads-title-main":
+      "Exploring the World of Ballads: A Dive into Literature's Heart",
+    "ballads-content-main":
+      'Welcome to our exploration of ballads, a literary form steeped in history and rich in emotion. Originating in the 18th century, the term "ballad" took shape to distinguish these poems from epics, focusing instead on personal narratives rather than heroic deeds. Join us as we delve into the essence of ballads and their significance in storytelling.',
+    "ballads-essence-title": "Unveiling the Ballad's Essence",
+    "ballads-essence-title-2":
+      "Distinguishing Features: What Sets Ballads Apart",
+    "ballads-essence-content":
+      "In the realm of ballads, the narrative canvas is painted with the hues of personal and familial experiences. Unlike the grandeur of epics, ballads encapsulate the intimate struggles and triumphs of individuals within the confines of family dynamics. Here, heroes are not adorned in armor and valor; instead, they navigate the complexities of personal happiness and misfortune.",
+    "ballads-tragedy-title": "Journeying Through Tragedy and Triumph",
+    "ballads-tragedy-title-2":
+      "Navigating Personal Turmoil: Heroes in the Shadows",
+    "ballads-tragedy-content":
+      "Within the ballad's verses, tragedy often takes center stage. Patriarchal norms and societal constraints cast a shadow over individual aspirations, leading to poignant tales of sacrifice and sorrow. Vulnerable protagonists, often women, traverse a landscape fraught with emotional turmoil, where the boundaries between happiness and despair blur.",
+    "ballads-tragedy-title-3": "The Art of Narrative Nuance",
+    "ballads-tragedy-content-2":
+      "Unlike their epic counterparts, ballads eschew linear storytelling in favor of poignant moments of emotional crescendo. Events unfold in fragmented sequences, each moment laden with profound significance. These dark corners of uncertainty invite interpretation, beckoning listeners to explore the depths of the human soul.",
+    "ballads-bridging-title": "Bridging Cultures Through Verse",
+    "ballads-bridging-title-2":
+      "Global Impact: The Universality of Bosnian Ballads",
+    "ballads-bridging-content":
+      "Among the myriad ballads that grace the literary landscape, those hailing from Bosnia and Herzegovina stand out for their unique blend of sensuality and cultural heritage. Rooted in the Muslim tradition, these ballads encapsulate the longing and sorrow of love, intertwined with familial obligations and societal expectations.",
+    "ballads-bridging-title-3": "A Universal Tale of Sacrifice",
+    "ballads-bridging-content-2":
+      "Across cultures and continents, the ballad echoes a universal truth: the individual often bears the weight of collective aspirations. Whether for family, tribe, or nation, personal destinies are entwined with larger narratives of honor and duty. Through the ballad, we witness the timeless struggle of individuals sacrificed at the altar of societal expectations.",
+    "ballads-essence-title-3": "Oral Literature",
+    "ballads-essence-content-3":
+      "Oral literature is among the oldest literary forms, originating from storytelling and song long before the advent of writing. It varies across cultures and persists alongside written literature, transmitted orally from one generation to the next. It fosters community cohesion and collective identity, with each member contributing to its evolution. Despite its communal nature, it's also shaped by talented individuals.",
+   
+   
+      //**Ballad details - portfolio-details.html*/
+    "opera-about":
+      "This is about the first original post-war opera production in Bosnia and Herzegovina, which brought together great artists. Composer Asim Horozić composed Hasanaginica to the libretto by Nijaz Alispahić, and in creating this work, conductor Miroslav Homen, director Sulejman Kupusović, the choir and ballet of the National Theater Sarajevo, Sarajevo Philharmonic, and outstanding soloists participated: Krunoslav Cigoj, Margit Tomik, Ivica Čikeš, Ivica Šarić, and Amila Bakšić.",
+
+    //**Gallery */
+    "gallery-title": "Gallery",
+    "gallery-content":
+      "Welcome to our Gallery, showcasing students' interpretations alongside diverse artworks, all reflecting the timeless tale of love and sacrifice. From paintings to multimedia installations, each piece offers a unique perspective on universal themes like love, loss, and resilience. Explore the gallery and delve into the power of art to convey the human experience across cultures and generations.",
+    "gallery-student-video": "Student Video",
+    "gallery-eng-translation": "English Translation",
+
+    //**Motherhood / testimonial*/
+    "motherhood-title": "Celebrating motherhood",
+    "khalil-gibran-title": "Author",
+    "khalil-gibran-quote":
+      '<i class="bx bxs-quote-alt-left quote-icon-left"></i>He who loses his mother loses a pure soul who blesses andguards him constantly.<i class="bx bxs-quote-alt-left quote-icon-right"></i>',
+    "khalil-gibran-quote-explanation":
+      "This quote resonates deeply with the story of Hasanaginica, who, despite facing immense challenges, carries the pure love and protection of a mother for her children.",
+    "elliot-title": "Novelist",
+    "elliot-quote":
+      '<i class="bx bxs-quote-alt-left quote-icon-left"></i> Life began with waking up and loving my mother’s face. <i class="bx bxs-quote-alt-right quote-icon-right"></i>',
+    "elliot-quote-explanation":
+      "George Elliot's words capture the essence of maternal love, which is central to the story of Hasanaginica. Her sacrifices and devotion exemplify the profound bond between a mother and her children.",
+    "de-balzac-title": "Writer",
+    "de-balzac-quote":
+      '<i class="bx bxs-quote-alt-left quote-icon-left"></i> The heart of a mother is a deep abyss at the bottom of which you will always find forgiveness. <i class="bx bxs-quote-alt-right quote-icon-right"></i>',
+    "de-balzac-quote-explanation":
+      "Hasanaginica's forgiveness and unwavering love for her children, despite the hardships she endures, reflect the sentiments expressed by Balzac in this quote.",
+    "sophia-title": "Actress",
+    "sophia-quote":
+      '<i class="bx bxs-quote-alt-left quote-icon-left"></i> When you are a mother, you are never really alone in your thoughts. A mother always has to think twice, once for herself and once for her child. <i class="bx bxs-quote-alt-right quote-icon-right"></i>',
+    "sophia-quote-explanation":
+      "The sacrifices and constant worry Hasanaginica endures for her children resonate with Sophia Loren's portrayal of the perpetual thoughts and concerns of a mother.",
+
+    //**Footer */
+    "footer-content":
+      "This page is dedicated to exploring and promoting Hasanaginica, a timeless tale that transcends the boundaries of time and space, delving into the depths of human experience and the human soul.",
+  },
+
+  bs: {
+    //**About */
+    "about-title": "O Hasanaginici",
+    "about-content":
+      "Hasanaginica je južnoslavenska narodna balada koja je nastala u imotskom kraju u razdoblju od 1646. do 1649. godine. Priča tragičnu sudbinu plemenite žene, Hasanaginice, koja se suočava s društvenim normama i obiteljskim pritiscima.",
+    "about-content-2":
+      "Hasanaginica je jedan od najsjajnijih i najtragičnijih likova u našoj književnosti. Ona se pridržava svih normi svog društva, ali doživljava srceparajuću sudbinu. Srce joj se slama kada je muž, Hasan-aga, okrutno protjera jer ga nije mogla posjetiti dok je bio ranjen. U to doba, ženama nije bilo dopušteno izražavati emocije prema svojim muževima niti izlaziti izvan granica svojih domova. Iako je ispunila svoje uloge supruge i majke, Hasanaginica je prisiljena napustiti svoju djecu i dom. Njezina priča služi kao svjetionik u našoj lokalnoj, ali i svjetskoj književnoj tradiciji.",
+    "about-content-3":
+      "U baladi je Hasanaginica prikazana kao odana supruga i majka. Trpi ogromnu patnju i bol kada je muž, Hasan-aga, protjera. Unatoč svojoj vjernosti i ispunjavanju društvenih normi, suočava se s okrutnom sudbinom. Emocionalna težina napuštanja djece i doma je opipljiva, a njezina priča odjekuje među čitateljima različitih kultura i generacija.",
+    "about-content-link": "Pročitajte cijelu baladu",
+
+    //**Navigation */
+    "nav-link-home": "Početna",
+    "nav-link-about": "O Hasanaginici",
+    "nav-link-ballads": "O Baladama",
+    "nav-link-gallery": "Galerija",
+
+    //**Fun Facts */
+    "fun-fact-title": "Zanimljivosti",
+    "fun-fact-content":
+      "Zanimljivost o Hasanaginici je da je prevedena na više od 40 jezika, što je čini globalno prepoznatim i cijenjenim književnim djelom.",
+    "fun-fact-translations": "Prevoda",
+
+    //**Ballads */
+    "ballads-title-main":
+      "ISTRAŽIVANJE SVIJETA BALADA: URANJANJE U SRCE KNJIŽEVNOSTI",
+    "ballads-content-main":
+      'Dobrodošli u naše istraživanje balada, književnog oblika bogatog poviješću i emocijama. Pojam "balada" oblikovao se u 18. stoljeću kako bi se ovi stihovi razlikovali od epova, usredotočujući se na osobne priče umjesto na herojska djela. Pridružite nam se dok uranjamo u bit balada i njihov značaj u pripovijedanju.',
+    "ballads-essence-title": "Otkrivanje suštine balade",
+    "ballads-essence-title-2": "Distinktivne značajke: što izdvaja balade",
+    "ballads-essence-content":
+      "U svijetu balada, pripovjedno platno oslikano je nijansama osobnih i obiteljskih iskustava. Za razliku od veličanstvenosti epova, balade obuhvaćaju intimne borbe i trijumfe pojedinaca unutar okvira obiteljskih dinamika. Ovdje junaci nisu ukrašeni oklopom i hrabrošću; umjesto toga, prolaze kroz složenosti osobne sreće i nesreće.",
+    "ballads-tragedy-title": "Putovanje kroz tragediju i trijumf",
+    "ballads-tragedy-title-2": "Navigacija osobnih nemira: junaci u sjeni",
+    "ballads-tragedy-content":
+      "Unutar stihova balade, tragedija često zauzima središnje mjesto. Patrijarhalne norme i društvene ograničenosti bacaju sjenu na individualne težnje, što dovodi do dirljivih priča o žrtvovanju i tuzi. Ranjivi protagonisti, često žene, prolaze kroz krajolik pun emocionalnih nemira, gdje se granice između sreće i očaja zamagljuju.",
+    "ballads-tragedy-title-3": "Umjetnost pripovjedne nijanse",
+    "ballads-tragedy-content-2":
+      "Za razliku od svojih epohalnih pandana, balade izbjegavaju linearno pripovijedanje u korist dirljivih trenutaka emocionalnog vrhunca. Događaji se odvijaju u fragmentiranim sekvencama, pri čemu je svaki trenutak obogaćen dubokim značenjem. Ti tamni kutovi neizvjesnosti pozivaju na interpretaciju, zovući slušatelje da istraže dubine ljudske duše.",
+    "ballads-bridging-title": "Povezivanje kultura kroz stihove",
+    "ballads-bridging-title-2":
+      "Globalni utjecaj: univerzalnost bosanskih balada",
+    "ballads-bridging-content":
+      "Među mnoštvom balada koje krase književni pejzaž, one koje dolaze iz Bosne i Hercegovine ističu se svojim jedinstvenim spojem senzualnosti i kulturne baštine. Ukorijenjene u muslimanskoj tradiciji, ove balade obuhvaćaju čežnju i tugu ljubavi, isprepletene s obiteljskim obvezama i društvenim očekivanjima.",
+    "ballads-bridging-title-3": "Univerzalna priča o žrtvi",
+    "ballads-bridging-content-2":
+      "Preko kultura i kontinenata, balada odjekuje univerzalnom istinom: pojedinac često nosi teret kolektivnih aspiracija. Bilo za obitelj, plemenu ili naciju, osobne sudbine isprepliću se s većim narativima časti i dužnosti. Kroz baladu svjedočimo vječnoj borbi pojedinaca žrtvovanih na oltaru društvenih očekivanja.",
+    "ballads-essence-title-3": "Usmena književnst",
+    "ballads-essence-content-3":
+      "Usmena književnost je među najstarijim književnim formama, potječe iz pripovijedanja i pjesme mnogo prije pismenosti. Razlikuje se među kulturama i nastavlja postojati uz pisane književnosti, prenoseći se usmeno s jedne generacije na drugu. Potiče koheziju zajednice i kolektivni identitet, pri čemu svaki član doprinosi njezinom razvoju. Unatoč svojoj zajedničkoj prirodi, oblikuju je i nadareni pojedinci.",
+
+    //**Ballad details */
+    "opera-about":
+      "Riječ je o prvoj originalnoj poslijeratnoj opernoj produkciji u BiH, koja je oko sebe okupila velike umjetnike. Kompozitor Asim Horozić skladao je Hasanagonicu na libreto Nijaza Alispahića, a u stvaranju ovog djela sudjelovao je dirigent Miroslav Homen, redatelj Sulejman Kupusović, hor i balet Opere NPS, Sarajevska filharmonija te izvrsni solisti: Krunoslav Cigoj, Margit Tomik, Ivica Čikeš, Ivica Šarić i Amila Bakšić.",
+
+    //**Gallery */
+    "gallery-title": "Galerija",
+    "gallery-content":
+      "Dobrodošli u našu Galeriju, koja prikazuje interpretacije studenata uz raznovrsna umjetnička djela, sve odražavajući vječnu priču o ljubavi i žrtvi. Od slika do multimedijalnih instalacija, svaki komad nudi jedinstveni pogled na univerzalne teme poput ljubavi, gubitka i otpornosti. Istražite galeriju i zaronite u moć umjetnosti u prenošenju ljudskog iskustva kroz kulture i generacije.",
+    "gallery-student-video": "Video naših učenika",
+    "gallery-eng-translation": "Engleski prevod",
+
+    //**Motherhood */
+    "motherhood-title": "Slavljenje majčinstva",
+    "khalil-gibran-title": "Pisac",
+    "khalil-gibran-quote":
+      '<i class="bx bxs-quote-alt-left quote-icon-left"></i>Onaj ko izgubi svoju majku, gubi čistu dušu koja ga neprestano blagoslivlja i čuva.<i class="bx bxs-quote-alt-left quote-icon-right"></i>',
+    "khalil-gibran-quote-explanation":
+      "Ova izreka duboko rezonira s pričom o Hasanaginici, koja, unatoč suočavanju s ogromnim izazovima, nosi čistu ljubav i zaštitu majke za svoju djecu.",
+    "elliot-title": "Romanopisac",
+    "elliot-quote":
+      '<i class="bx bxs-quote-alt-left quote-icon-left"></i> Život je počeo s buđenjem i ljubavlju prema licu moje majke. <i class="bx bxs-quote-alt-right quote-icon-right"></i>',
+    "elliot-quote-explanation":
+      "Riječi George Elliota uhvatile su suštinu majčinske ljubavi, koja je središnja u priči o Hasanaginici. Njene žrtve i predanost ilustriraju duboku vezu između majke i njenih djece.",
+    "de-balzac-title": "Pisac",
+    "de-balzac-quote":
+      '<i class="bx bxs-quote-alt-left quote-icon-left"></i> Srce majke je duboki ponor na dnu kojeg ćete uvijek pronaći oprost. <i class="bx bxs-quote-alt-right quote-icon-right"></i>',
+    "de-balzac-quote-explanation":
+      "Oprost Hasanaginice i nepokolebljiva ljubav prema svojoj djeci, unatoč mukama koje trpi, odražavaju osjećaje izražene u ovoj izreci Balzaca.",
+    "sophia-title": "Glumica",
+    "sophia-quote":
+      '<i class="bx bxs-quote-alt-left quote-icon-left"></i> "Kada ste majka, nikada zapravo niste sami sa svojim mislima. Majka uvijek mora razmišljati dva puta, jednom za sebe i jednom za svoje dijete." <i class="bx bxs-quote-alt-right quote-icon-right"></i>',
+    "sophia-quote-explanation":
+      "Žrtve i stalna briga koje Hasanaginica podnosi za svoju djecu odjekuju s prikazom Sofije Loren o stalnim mislima i brigama majke.",
+
+    //**Footer */
+    "footer-content":
+      "Ova stranica posvećena je istraživanju i promociji Hasanaginice, neponovljive priče koja prelazi granice vremena i prostora, istražujući dubine ljudskog iskustva i ljudske duše.",
+  },
+};
